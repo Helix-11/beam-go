@@ -1,4 +1,6 @@
 # beam-wordcount-go
+# Logan Krohn
+
 Example from https://github.com/apache/beam/blob/master/sdks/go/examples/wordcount/wordcount.go
 
 ## Read More
